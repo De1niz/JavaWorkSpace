@@ -4,5 +4,6 @@ public class Main {
    int[] numbers = {4 , 3, 5, 6 , 7 };
    Arrays.sort(numbers);
         System.out.println(Arrays.toString(numbers));
+
         }
     }
